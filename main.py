@@ -32,8 +32,8 @@ def  DDA(x0, y0, xn, yn):
 
 #main
 x0=int(input("insert x0:\n"))
-y0=int(input("insert x0:\n"))
+y0=int(input("insert y0:\n"))
 
 xn=int(input("insert x0:\n"))
-yn=int(input("insert x0:\n"))
+yn=int(input("insert y0:\n"))
 DDA(x0, y0, xn, yn)
